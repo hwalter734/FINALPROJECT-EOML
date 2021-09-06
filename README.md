@@ -1,5 +1,7 @@
 # FINALPROJECT-EOML
-Proyecto final de la clase de Elements of Machine Learning
+Proyecto final de la clase de Elements of Machine Learning.
+# Objetivo
+Desarrollé un modelo que predice qué asteroides son potencialmente peligrosos para la humanidad, basado en algunos criterios propios con justificación científica. Para más información pueden ver la presentación en formato de video (Loom), la presentación en formato PDF, y el Jupyter Notebook con el ejercicio realizado.
 * Adjunto encontrarán el link de la presentación: https://www.loom.com/share/31968faf5ea74ef98a274f1b10da1877
 * Adjunto el link del dataset: https://www.kaggle.com/basu369victor/prediction-of-asteroid-diameter?select=Asteroid_Updated.csv
 # Referencias
